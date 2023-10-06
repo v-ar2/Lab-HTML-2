@@ -1,1 +1,82 @@
+<!DOCTYPE html>
+<html>
+    <head> <title> Personal Portfolio </title>
+        <body>
+            <h1 style= color:blueviolet> Veronica Ruiz </h1>
 
+            <h3> NJIT, 31632791, Bachelor in Architecture</h3>
+            <hr>
+            <p> I am Veronica Ruiz, a first-year architecture major at NJIT. 
+                I am 18 years old and a little bit about me is that I am the youngest
+                 of four siblings and I am the only girl. My ethnic background is 
+                 Puerto Rican and Irish. I was born in Paterson, New Jersey but 
+                 grew up in Roselle Park and graduated from Roselle Park High School 
+                 with a cumulative GPA of 4.5. During my high school career, I was a 
+                 part of the cheer team and became captain in my senior year. I was 
+                 invited to join the National Honor Society during my junior year. 
+                 During my Senior year, I was a part of my school's TSA Architectural 
+                 Design team and made it to Nationals and placed top 25.</p>
+                 <a href="https://experience.elluciancloud.com/njiot929/"> njit.edu </a><br>
+                 <br>
+                 <img src="20230805_133335.jpg"
+
+                 <hr>
+            <div>
+                <table style="width: 75%; font-size: 150%; border: 2px solid black">
+                    <tr>
+                        <th> Experience </th>
+                        <th> Education </th>
+                        <th> Skills </th>
+                    </tr>
+                    <tr style="width: 100%; border: 1px solid black">
+                        <td> Weiruhgksjren</td>
+                        <td> Wefhneiwrgtns</td>
+                        <td> ckehiwojlenf</td>
+                    </tr>
+                    <tr>
+                        <td> None </td>
+                        <td> High School </td>
+                        <td> no </td>
+                    </tr>
+                </table>
+            </div>
+            <br>
+            <div>
+                <form style="margin-top: 100px">
+                    <label for="Username">Username :</label>
+                    <input type="text"placeholder="Username">
+                    <br>
+                    <label for="First Name">First Name :</label>
+                    <input type="First Name" placeholder="First Name">
+                    <label for="Last Name">Last name: </label>
+                    <input type="Last Name" placeholder="Last name">
+                    <br>
+                    <label for="Email">Email: </label>
+                    <input type="Email" placeholder="Email">
+                    <br>
+                    <input type="checkbox" name="Major"> Math
+                    <input type="checkbox" name="Major"> Architecture
+                    <input type="checkbox" name="Major"> Computer Science
+                    <br>
+
+                    <input type="radio" name="Major"> Math
+                    <input type="radio" name="Major"> Architecture
+                    <input type="radio" name="Major"> Computer Science
+                    <br>
+
+                    <input type="submit">
+                </form>
+            </div>
+            <div style="margin-top: 5%">
+                <ul>
+                    <li><a href="#"> ARCH 110 </a></li>
+                    <li><a href="#"> ARCH 195 </a></li>
+                    <li><a href="#"> ENG 102 </a></li>
+                    <li><a href="#"> MATH 107</a></li>
+                    <li><a href="#"> CS 104</a></li>
+                    <li><a href="#"> FYSSEMA</a></li>
+                </ul>
+            </div>
+        </body>
+    </head>
+</html>
